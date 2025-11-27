@@ -72,9 +72,9 @@ graph TB
 ```mermaid
 sequenceDiagram
     participant U as User
-    participant C as ChatClientX
+    participant C as ChatClient
     participant N as Network
-    participant S as ChatServerX
+    participant S as ChatServer
     participant L as Log File
     
     U->>C: Start Client
