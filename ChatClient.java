@@ -1,3 +1,10 @@
+//////////////////////////////////////////////////////////////////////
+// File name :       ChatClient.java
+// Discription :     It is Client CUI for communication
+// Author :          Mangesh Ashok Bedre
+// Date :            26/11/2025
+//
+//////////////////////////////////////////////////////////////////////
 import java.io.*;
 import java.net.*;
 
